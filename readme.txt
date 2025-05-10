@@ -1,0 +1,7 @@
+Criados os 3 documentos, index.html, style.css e script.js como o PDF pedia
+
+o script.js não foi utilizado pois não havia demanda para tal, mas foi mantido no projeto e chamado no html
+
+Como o projeto era de página unica não me importei de dar classes para algumas tags como h2 ou h3 ou as uls e lis
+
+O projeto esta responsivo
